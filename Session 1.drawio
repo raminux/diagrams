@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T03:18:09.156Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HFRQ3nKXuKnITEsqhyPb" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-09T13:47:08.281Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="E65Ux0vjklXK3rqu2yYX" version="20.4.0" type="github" pages="4">
   <diagram id="MVAri-hhUNU3gOKpKdhF" name="Intro">
-    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PO18Q1dCIVM4EUSyHFxl-1" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px;&quot;&gt;The overall aim of the channel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;What is a social network platform?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What technologies are we going to use?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What is Django?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;One of Rumi&#39;s poems + Digital Art&lt;/span&gt;&lt;span style=&quot;color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PO18Q1dCIVM4EUSyHFxl-1" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px;&quot;&gt;The overall aim of the channel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;What is a social network platform?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What technologies are we going to use?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What is Django?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;One of Rumi&#39;s poems + Digital Art&lt;/span&gt;&lt;span style=&quot;color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="610" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="PO18Q1dCIVM4EUSyHFxl-2" value="Intro" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PO18Q1dCIVM4EUSyHFxl-2" value="Intro" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="368" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Social Network Platforms" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#D9DEFF" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#D9DEFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,29 +105,29 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S49CzjCvf5B0AX-5tmlo" name="Django installation">
-    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KTXlLto1ItqmHFq6f9du-1" value="&lt;div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ python --version&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ mkdir collaboration.share&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ pipenv shell&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ python -m pip install django&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="KTXlLto1ItqmHFq6f9du-1" value="&lt;div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ python --version&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ mkdir collaboration.share&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ pipenv shell&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;$ python -m pip install django&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="610" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="KTXlLto1ItqmHFq6f9du-2" value="Django" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KTXlLto1ItqmHFq6f9du-2" value="Django" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="368" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-mumlqvNmw7QSUBWjE3X" name="Rumi Quota">
-    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1sg7pYTA9uNXqgxCH5XX-1" value="&lt;em style=&quot;font-size: 28px; background-color: initial; box-sizing: border-box; touch-action: manipulation;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.”&lt;/b&gt;&lt;/font&gt;&lt;/em&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="1sg7pYTA9uNXqgxCH5XX-1" value="&lt;em style=&quot;font-size: 28px; background-color: initial; box-sizing: border-box; touch-action: manipulation;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.”&lt;/b&gt;&lt;/font&gt;&lt;/em&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="610" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="1sg7pYTA9uNXqgxCH5XX-2" value="Rumi&#39;s Quote" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="356" y="40" width="162" height="60" as="geometry" />
+        <mxCell id="1sg7pYTA9uNXqgxCH5XX-2" value="Rumi&#39;s Quote &amp;amp; Digital Art by AI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="43" width="204" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
