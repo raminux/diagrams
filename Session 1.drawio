@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T03:13:27.612Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6MNakWVMBJ3eDeQIx-kN" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-09T03:16:56.118Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="41sSm7lXwA2jnn4NYaUy" version="20.0.4" type="github" pages="4">
   <diagram id="MVAri-hhUNU3gOKpKdhF" name="Intro">
     <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,6 +123,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1sg7pYTA9uNXqgxCH5XX-1" value="&lt;em style=&quot;font-size: 28px; background-color: initial; box-sizing: border-box; touch-action: manipulation;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.”&lt;/b&gt;&lt;/font&gt;&lt;/em&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="610" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="1sg7pYTA9uNXqgxCH5XX-2" value="Rumi&#39;s Quote" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="356" y="40" width="162" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
