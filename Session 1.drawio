@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T14:33:09.001Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pjPrgUvBuRZ9uDCGT60j" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-10T09:10:04.642Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="m7Mui-A4ReLX3RaBdihQ" version="20.4.0" type="github" pages="7">
   <diagram id="MVAri-hhUNU3gOKpKdhF" name="Intro">
     <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PO18Q1dCIVM4EUSyHFxl-1" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px;&quot;&gt;The overall aim of the channel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;What is a social network platform?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What technologies are we going to use?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What is Django?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;One of Rumi&#39;s poems + Digital Art&lt;/span&gt;&lt;span style=&quot;color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="PO18Q1dCIVM4EUSyHFxl-1" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px;&quot;&gt;The overall aim of the channel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;What is a social network platform?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What technologies are we going to use?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;What is Django?&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold; font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace;&quot;&gt;One of Rumi&#39;s quotes + Digital Art&lt;/span&gt;&lt;span style=&quot;color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 23px; font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="610" height="430" as="geometry" />
         </mxCell>
         <mxCell id="PO18Q1dCIVM4EUSyHFxl-2" value="Intro" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="368" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpy_gwh1HXLwpNX6nLI2-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;collaborators not customers&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="150" width="250" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -104,6 +107,14 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="WQ8QF6TnApI6BcXY1Myi" name="Technologies">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="S49CzjCvf5B0AX-5tmlo" name="Django installation">
     <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,6 +139,43 @@
         </mxCell>
         <mxCell id="1sg7pYTA9uNXqgxCH5XX-2" value="Rumi&#39;s Quote &amp;amp; Digital Art by AI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="43" width="204" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7VbkkiLzHQXi1sCpCQMC" name="Collaboration matters">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rkwCj_Ws0d5mdx3Sf5Dl-1" value="Collaborator vs Customer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rkwCj_Ws0d5mdx3Sf5Dl-2" value="Potential Collaborator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rkwCj_Ws0d5mdx3Sf5Dl-3" value="Every contribution matters!" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rkwCj_Ws0d5mdx3Sf5Dl-4" value="Collaborate &amp;amp; Grow Together" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rkwCj_Ws0d5mdx3Sf5Dl-5" value="Collaboration or Competition?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="290" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lY1ESBTc1_AUDAL0m6EM" name="Chanel Topic">
+    <mxGraphModel dx="1550" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BzE1sU9ThKc11xpQFIMe-1" value="&lt;ul&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;Software development&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;Social Network Platform&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;Art&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;AI&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(39, 40, 34); color: rgb(166, 226, 46); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 28px; font-weight: bold;&quot;&gt;Social Science&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="610" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="BzE1sU9ThKc11xpQFIMe-2" value="Chanel Topic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="333" y="60" width="204" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
